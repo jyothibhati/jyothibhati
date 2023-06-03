@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I think their is no fun with just facts...👻.**
 
-<h2 align="left"><bold>CONNECT WITH ME</bold></h1>
+<h2 align="left">Connect With Me:</h1>
 
 <p align="left">
   <a href="https://twitter.com/bhatijyothi" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="bhatijyothi" height="30" width="80" /></a>
