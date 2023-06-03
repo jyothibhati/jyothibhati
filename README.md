@@ -2,7 +2,7 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WORKING%20FOR%20A%20CHANGE%20🌈👻&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-<h1 align="center">Hi 👋, I'm Jyothi Bhati</h1>
+<h1 align="center">Hey!! 👋, I'm Jyothi Bhati</h1>
 <h3 align="center">A passionate Learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_700/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA">
 
