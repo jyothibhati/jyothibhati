@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WORKING%20FOR%20A%20CHANGE%20🌈&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WORKING%20FOR%20A%20CHANGE%20🌈👻&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">Hi 👋, I'm Jyothi Bhati</h1>
 <h3 align="center">A passionate Learner from India</h3>
