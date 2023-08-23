@@ -16,9 +16,9 @@
 
 - 🤝 I’m looking for help with **front-end projects**
 
-- 📫 How to reach me **bhatijyothi@gmail.com**
+- 📫 How to reach me **bhatijyothi84@gmail.com**
 
-- ⚡ Fun fact **I think their is no fun with just facts...👻.**
+- ⚡ Fun fact **More Facts with more Fun...👻.**
 
 <h2 align="left">Connect with me:</h1>
 
