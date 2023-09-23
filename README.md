@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/bhatijyothi" target="blank"><img src="https://img.shields.io/twitter/follow/bhatijyothi?logo=twitter&style=for-the-badge" alt="bhatijyothi" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio website**
+- 🔭 I’m currently working on **Fullstack projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Fullstack**
 
 - 🤝 I’m looking for help with **front-end projects**
 
 - 📫 How to reach me **bhatijyothi84@gmail.com**
 
-- ⚡ Fun fact **More Facts with more Fun...👻.**
+- ⚡ Fun fact **Your Knowledge will always be a drop in the Ocean.The more you Explore the more you familiarize.👻.**
 
 <h2 align="left">Connect with me:</h1>
 
